@@ -1,0 +1,26 @@
+1. Crea un clase llamada producto en un archivo llamado producto.php
+En un archivo llamado solucion.php creas un nuevo producto. instanciar
+en la clase producto tienes un método que le pasas la fecha actual y te calcula la fecha de caducidad.
+si el producto es tipo A, 30 días.
+si es de tipo B, 45 días.
+si es de tipo C, 62 días.
+
+Explica cómo puedes utilizar una clase de un archivo en otro. import?
+Dar de alta un producto y calcular la fecha de caducidad se hace con un formulario HTML.
+
+2. En un archivo php, creas un enumerador con 5 colores.
+Al ejecutar muestra un mensaje en una web con el color elegido.
+
+3. callback.
+con PHP tienes una función que calcula un número aleatorio entre 1 y 100
+en HTML creas un formulario para hacer una tirada. la tirada llama a la función y te muestra el número que ha salido.
+
+4. Realiza un ejemplo en donde explica la diferencia entre echo y implode
+
+5. Crea una tabla llamada pedidos en MySQL.
+crea un formulario que pida
+fecha de pedido
+kg
+producto
+dni
+envía y el pedido queda registrado.
